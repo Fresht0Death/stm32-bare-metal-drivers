@@ -1,4 +1,4 @@
-## STM32 Bare-Metal Drivers
+## STM32 Bare-Metal Drivers (Work in Progress)
 
 Register-level peripheral drivers for STM32 microcontrollers, built to learn embedded systems fundamentals without relying on STM32 HAL for peripheral configuration.
 
